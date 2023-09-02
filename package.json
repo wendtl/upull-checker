@@ -2,9 +2,9 @@
   "name": "upull-checker",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "start": "bun ./index.js"
+    "start": "bun ./index.ts"
   },
   "keywords": [],
   "author": "",
